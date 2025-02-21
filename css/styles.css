@@ -14,3 +14,8 @@
     background-color: #e2e3e4;
     text-decoration: none;
 }
+
+.mainText {
+    font-family: 'Verdana', sans-serif;
+    font-size: 12pt;
+}
