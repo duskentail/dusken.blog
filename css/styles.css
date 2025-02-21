@@ -1,0 +1,16 @@
+
+.navbarButton {
+    font-family: 'Atkinson Hyperlegible', 'Verdana', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    background-color: #e2e3e4;
+    text-decoration: none;
+}
+
+.pageTitle {
+    font-family: 'Atkinson Hyperlegible', 'Verdana', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    background-color: #e2e3e4;
+    text-decoration: none;
+}
