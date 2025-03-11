@@ -1,5 +1,17 @@
 html{
-    background-color: #eceff4;
+    background-color: #f8f9fa;
+}
+
+#duskenPortrait{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 300px;
+}
+
+#projects{
+    margin-right: 15%;
+    margin-left: 15%;
 }
 
 .pageTitle {
@@ -8,12 +20,16 @@ html{
     font-style: normal;
     background-color: #d8dee9;
     text-decoration: none;
+    margin-right: 15%;
+    margin-left: 15%;
 }
 
 .navbarContainer {
     background-color:#e5e9f0;
     padding: 15px;
     margin: 0px;
+    margin-right: 15%;
+    margin-left: 15%;
 }
 
 .navbar {
@@ -28,7 +44,10 @@ html{
 
 .mainContent{
     font-family: "Verdana";
-    font-size: 20px;
+    font-size: 12pt;
+    margin-left:15%;
+    margin-right:15%;
+    background-color: #eceff4;
 
 }
 
